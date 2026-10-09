@@ -1,1 +1,4 @@
-logFiles/*.log
+/.idea
+/vendor
+/logFiles/
+/test/.phpunit.result.cache
