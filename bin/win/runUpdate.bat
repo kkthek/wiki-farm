@@ -28,7 +28,7 @@ SET WIKI=%OUT%
 CALL %~dp0\setup.bat %OUT%
 
 if not errorlevel 1 (
-     echo "!PHP_BIN!" "!MW!\maintenance\update.php" --quick
+     "!PHP_BIN!" "!MW!\maintenance\update.php" --quick
 )
 
 exit /b 0

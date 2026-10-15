@@ -28,7 +28,7 @@ SET WIKI=%OUT%
 CALL %~dp0\setup.bat %OUT%
 
 if not errorlevel 1 (
-     echo "!PHP_BIN!" "!MW!\extensions\FacetedSearch2\maintenance\updateIndex.php" -v
+     "!PHP_BIN!" "!MW!\extensions\FacetedSearch2\maintenance\updateIndex.php" -v
 )
 
 exit /b 0

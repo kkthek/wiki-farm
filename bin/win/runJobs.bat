@@ -28,7 +28,7 @@ SET WIKI=%OUT%
 CALL %~dp0\setup.bat %OUT%
 
 if not errorlevel 1 (
-     echo "!PHP_BIN!" "!MW!\maintenance\runJobs.php" --maxjobs=999 --memory-limit=1024M
+     "!PHP_BIN!" "!MW!\maintenance\runJobs.php" --maxjobs=999 --memory-limit=1024M
 )
 
 exit /b 0
