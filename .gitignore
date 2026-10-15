@@ -2,3 +2,5 @@
 /vendor
 /logFiles/
 /test/.phpunit.result.cache
+/bin/setup.sh
+/bin/win/setup.bat
