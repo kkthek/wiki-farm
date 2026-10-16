@@ -1,0 +1,21 @@
+1.       30 days evaluation Lizenz von Power-Search
+
+Software License Agreement for Power-Search 2.x
+
+ATTENTION: PLEASE READ THIS DOCUMENT CAREFULLY BEFORE DOWNLOADING AND/OR COMPLETING THIS INSTALLATION. THE INDIVIDUAL OR ENTITY RUNNING THIS INSTALLATION (THE "END-USER") AGREES TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE WITH THIS LICENSE, DO NOT COMPLETE THIS INSTALLATION. YOUR DOWNLOAD OF AND/OR THE INSTALLATION OF THIS SOLUTION CONSTITUTES ACCEPTANCE OF THIS LICENSE AGREEMENT.
+
+Between You and DIQA Projektmanagement GmbH (DIQA) An der Raumfabrik 33c 76227 Karlsruhe, Germany
+
+1 Subject of the agreement
+
+1.1 The enclosed computer program(s) ("Software") and the accompanying documentation (altogether the "Subject Of Agreement") are provided to You ("Licensee") according to the terms of this agreement ("the Agreement").
+
+2 Terms and conditions of this Agreement
+
+2.1 Subject to the terms and conditions of this Agreement, DIQA hereby grants to Licensee a royalty-free, worldwide, non-exclusive, non-transferable license to use the Software for 30 days. Licensee must respect the license terms of the contained open source software and may not sell, rent, lease or sublicense rights in the Software, remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels.
+
+2.2 THIS SOFTWARE IS PROVIDED AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS AND CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+2.3 The Product is designed for general office use. It is not designed or intended for use in air traffic control, mass transit systems, critical medical purposes, the operation of nuclear facilities or any other use which could result in a high risk of safety or property damage. You warrant that you will not use the Product for such purposes.
+
+2.4 Contact info@diqa-pm.de to obtain a license for perpetual use.
